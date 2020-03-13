@@ -16,3 +16,5 @@ const UserForm = ({ createUser })=> {
       </section>
     );
   };
+
+export default UserForm;

@@ -16,3 +16,5 @@ const ThingForm = ({ createThing })=> {
       </section>
     );
   };
+
+  export default ThingForm;
