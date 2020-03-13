@@ -1,4 +1,4 @@
-import React , {Component} from 'react';
+import React , { useState, useEffect } from 'react';
 
 const UserForm = ({ createUser })=> {
     const [name, setName] = useState('');
