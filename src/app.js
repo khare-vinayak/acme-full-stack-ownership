@@ -84,7 +84,7 @@ const App = ()=> {
     }, []);
     return (
       <div>
-        <h1>Acme Ownership</h1>
+        <h1>Acme Ownership Refactored</h1>
         {
           !!error && <div className='error'>{ error }</div>
         }
